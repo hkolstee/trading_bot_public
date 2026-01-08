@@ -4,7 +4,7 @@ This repository serves as a public showcase for a private high-frequency algorit
 
 ## Project Overview
 
-The goal of this project is to create a robust trading agent that adapts to changing market conditions without relying on hard-coded strategies. The agent learns to maximize risk-adjusted returns through extensive simulation and training.
+After my thesis on a topic within the multi-agent reinforcement learning paradigm, I felt that, after reading so many papers and diving so deep into the subject, I might be one of the few people trying to build a crypto trading bot with the level of reinforcement learning knowledge I had. Additionally, I thought that in the volatile world of crypto perpetual futures, especially in low-liquidity markets, there wouldn’t be big players trying to make small profits, while these coins were still influenced enough by emotional traders to leave room for opportunity.
 
 ### Core Technology
 
@@ -16,6 +16,13 @@ The goal of this project is to create a robust trading agent that adapts to chan
     *   **Macro Indicators**: Broader economic signals to detect long-term market regimes.
 *   **Fidelity-First Backtesting**: To avoid the common pitfall of look-ahead bias, the backtesting engine strictly enforces real-world constraints, accounting for data latency, trading fees, and slippage.
 
+<<<<<<< HEAD
+=======
+### Dataset Overview
+
+![Price Array](plots/price_array.png)
+
+>>>>>>> 1310376 (small change)
 ## Performance & Visualizations
 
 The following plots are generated from backtests on unseen data. Each window represents a specific period where the model's decisions were simulated against historical data.
@@ -68,7 +75,10 @@ Visualizing specific trade entries and exits helps verify that the model is reac
 ![Short Chart 10](plots/chart_short_222000_222750.png)
 ![Short Chart 11](plots/chart_short_36000_36750.png)
 ![Short Chart 12](plots/chart_short_63700_64700.png)
+<<<<<<< HEAD
 
 ### Dataset Overview
 
 ![Price Array](plots/price_array.png)
+=======
+>>>>>>> 1310376 (small change)
