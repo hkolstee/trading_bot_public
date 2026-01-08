@@ -72,10 +72,3 @@ Visualizing specific trade entries and exits helps verify that the model is reac
 ![Short Chart 10](plots/chart_short_222000_222750.png)
 ![Short Chart 11](plots/chart_short_36000_36750.png)
 ![Short Chart 12](plots/chart_short_63700_64700.png)
-<<<<<<< HEAD
-
-### Dataset Overview
-
-![Price Array](plots/price_array.png)
-=======
->>>>>>> 1310376 (small change)
