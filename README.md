@@ -16,13 +16,10 @@ After my thesis on a topic within the multi-agent reinforcement learning paradig
     *   **Macro Indicators**: Broader economic signals to detect long-term market regimes.
 *   **Fidelity-First Backtesting**: To avoid the common pitfall of look-ahead bias, the backtesting engine strictly enforces real-world constraints, accounting for data latency, trading fees, and slippage.
 
-<<<<<<< HEAD
-=======
 ### Dataset Overview
 
 ![Price Array](plots/price_array.png)
 
->>>>>>> 1310376 (small change)
 ## Performance & Visualizations
 
 The following plots are generated from backtests on unseen data. Each window represents a specific period where the model's decisions were simulated against historical data.
